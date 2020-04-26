@@ -1,12 +1,12 @@
 # [J E-lite INITIATIVE](https://startbootstrap.com/themes/freelancer/)
 
-[Freelancer](http://startbootstrap.com/themes/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+[Freelancer](http://startbootstrap.com/themes/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](http://getbootstrap.com/) created by [J E-lite](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/J E-lite-freelancing/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://blackrockdigital.github.io/J E-lite-freelancing/)**
 
 ## Status
 
